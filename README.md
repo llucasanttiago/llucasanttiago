@@ -1,7 +1,5 @@
 Oi, eu sou @llucasantiago
-Estou interessado, em aprender muito, para iniciar na carreira, de segurança da informação.
-atualmente estou aprendendo, Arquitetura de software, Desenvolvimento Web, Desenvolvimento de Aplicativos Móveis Híbrido, Estrita de Dados e Programação Orientada a Objeto.
-Procuro colaborar em diversos projetos, pois meu foco atual é aprender, adquirir conhecimento.
+Aqui disponibilizo alguns pequenos projetos, que eu venho feito, de acordo com a faculdade e os estudos que faço fora da faculdade. Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Uninove. Estou tendo contato com HTML, CSS, JavaScript, Java, PHP, C, C#.
 Como chegar até mim? Via e-mail particular: llucasanttiago@gmail.com
 
 <!---

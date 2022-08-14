@@ -1,5 +1,5 @@
 Oi, eu sou @llucasantiago
-Aqui disponibilizo alguns pequenos projetos, que eu venho feito, de acordo com a faculdade e os estudos que faço fora da faculdade. Atualmente estou estudando Análise e Desenvolvimento de Sistemas na Uninove. Estou tendo contato com HTML, CSS, JavaScript, Java, PHP, C, C#.
+Aqui disponibilizo alguns pequenos projetos, que eu venho feito, de acordo com a faculdade e os estudos que faço fora da faculdade. Atualmente estou estudando Análise e Desenvolvimento de Sistemas, 4º semestre, na Uninove. Estou tendo contato com HTML, CSS, JavaScript, Java, PHP, C, C#.
 Como chegar até mim? Via e-mail particular: llucasanttiago@gmail.com
 
 <!---
